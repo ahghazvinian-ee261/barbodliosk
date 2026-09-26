@@ -38,8 +38,8 @@ namespace BarbodKiosk
         // --------------------------------------------------
         // CONFIG (mirrors the Python script)
         // --------------------------------------------------
-        private const string UrlSource = "https://barbodinstitute.ir/clock/calendar/url.txt";
-        private const string TxtUrl = "https://barbodinstitute.ir/clock/calendar/number.txt";
+        private const string UrlSource = "https://www.barbodinstitute.ir/clock/calendar/url.txt";
+        private const string TxtUrl = "https://wwww.barbodinstitute.ir/clock/calendar/number.txt";
         private static readonly TimeSpan CheckInterval = TimeSpan.FromSeconds(3);
         private static readonly TimeSpan HttpTimeout = TimeSpan.FromSeconds(10);
 
